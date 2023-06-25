@@ -12,6 +12,7 @@
 <img src="https://github.com/gsilvaepinto/gsilvaepinto/assets/109026846/e200def5-8787-4333-a8b7-bd598b171f5b" alt="output-onlinepngtools" width="70">
 <ul>
   <li><a href="#">libft</a></li>
+  <li><a href="#">ft_printf</a></li>
 </ul>
 
 
