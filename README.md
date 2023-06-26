@@ -7,6 +7,19 @@
 <a href="https://www.linkedin.com/in/guilherme-pinto-6575841b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/gsilvaepinto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+<div style="display: inline-block; margin-left: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+</div>
+
+
+          
+          
+          
+
 # Projects 
 
 <img src="https://github.com/gsilvaepinto/gsilvaepinto/assets/109026846/e200def5-8787-4333-a8b7-bd598b171f5b" alt="output-onlinepngtools" width="70">
