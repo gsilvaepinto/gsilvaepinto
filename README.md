@@ -1,6 +1,6 @@
 # Hello There 👋 
 
-<h4>General Kenobi...</h4
+<h4>General Kenobi...</h4>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljbgid2d005008la4xwy06tz/stats?cursusId=21&coalitionId=111" alt="gupinto's 42 stats" width = "47%"/></a>
 
