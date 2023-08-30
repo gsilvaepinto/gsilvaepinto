@@ -29,7 +29,7 @@
   <li><a href="https://github.com/gsilvaepinto/libft">libft</a> - Redo set of function from the <i>libc</i></li>
   <li><a href="#">ft_printf</a> - Recode of <i>printf()</i> function from <i>libc</i></li>
   <li><a href="#">get_next_line</a> - Read line from a file descriptor</li>
-  <li><a href="#">push_swap</a> - </li>
+  <li><a href="#">push_swap</a> - Sort data on a stack</li>
 </ul>
 
 
