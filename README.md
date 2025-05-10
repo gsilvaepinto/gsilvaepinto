@@ -2,7 +2,7 @@
 
 <h4>General Kenobi...</h4>
 
-<p>My name is Guilherme, an aspiring Full-Stack Developer focused on mastering modern web technologies. I’m currently dedicating myself full-time to learning programming, with a strong focus full-stack development. My routine is built around deep work, consistent learning, and personal discipline.
+<p>My name is Guilherme, an aspiring Full-Stack Developer focused on mastering modern web technologies. I’m currently dedicating myself full-time to learning programming, with a strong focus on full-stack development. My routine is built around deep work, consistent learning, and personal discipline.
 
 I’m passionate about building meaningful software and living minimally, with a sharp focus on coding, fitness, and personal growth.
 
