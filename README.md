@@ -2,16 +2,11 @@
 
 <h4>General Kenobi...</h4>
 
-<a href="https://www.linkedin.com/in/guilherme-pinto-6575841b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/gsilvaepinto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p>My name is Guilherme, an aspiring Full-Stack Developer focused on mastering modern web technologies. I’m currently dedicating myself full-time to learning programming, with a strong focus full-stack development. My routine is built around deep work, consistent learning, and personal discipline.
 
-<div style="display: inline-block;">
-  <img align="center" alt="something" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="something" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
-  <img align="center" alt="something" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="something" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="something" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
+I’m passionate about building meaningful software and living minimally, with a sharp focus on coding, fitness, and personal growth.
+
+To see more about my journey, feel free to check my GitHub projects or connect with me on LinkedIn.</p>
 
 
 
@@ -19,28 +14,27 @@
           
           
 
-# Projects 
+<h2>Skills</h2>
 
-<h3>42 LISBOA</h3>
-<ul>
-  <li><a href="https://github.com/gsilvaepinto/libft">libft</a> - Redo set of function from the <i>libc</i></li>
-  <li><a href="#">ft_printf</a> - Recode of <i>printf()</i> function from <i>libc</i></li>
-  <li><a href="#">get_next_line</a> - Read line from a file descriptor</li>
-  <li><a href="#">push_swap</a> - Sort data on a stack</li>
-</ul>
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/TYPESCRIT-yellow?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/NODE.js-yellow?style=for-the-badge&logo=node.js&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/HTML5-yellow?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange&color=orange)
+![Static Badge](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=red&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/MONGODB-white?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&labelColor=%23474A8A&color=%23474A8A)
+![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%234B8BBE&color=%234B8BBE)
 
 
-<!--
-**gsilvaepinto/gsilvaepinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
