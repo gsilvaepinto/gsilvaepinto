@@ -29,6 +29,7 @@ To see more about my journey, feel free to check my GitHub projects or connect w
 ![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&labelColor=%23474A8A&color=%23474A8A)
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%234B8BBE&color=%234B8BBE)
+![Static Badge](https://img.shields.io/badge/EJS-green?style=for-the-badge&logo=ejs&logoColor=white)
 
 
 
